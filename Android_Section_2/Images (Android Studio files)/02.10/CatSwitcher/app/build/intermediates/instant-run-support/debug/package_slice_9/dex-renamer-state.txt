@@ -1,0 +1,4 @@
+#Wed Nov 22 10:07:35 GMT 2017
+base.0=/Users/robertpercival/AndroidStudioProjects/CatSwitcher/app/build/intermediates/transforms/dexMerger/debug/9
+renamed.0=classes.dex
+file.0=/Users/robertpercival/AndroidStudioProjects/CatSwitcher/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex
